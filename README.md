@@ -18,6 +18,11 @@ A simple app that contains basic information about a country such as flag, capit
 A couple of Screenshots:
 
 
+<img width="477" alt="c1" src="https://user-images.githubusercontent.com/112818778/220151644-e0128a23-40fb-4d7f-848a-e9b02062e551.png">
+
+
+<img width="448" alt="c2" src="https://user-images.githubusercontent.com/112818778/220151691-5b696e4d-1c30-4e5c-89a4-f92e4a51fa83.png">
+
 
 ## Deployment
 

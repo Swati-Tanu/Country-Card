@@ -2,6 +2,23 @@
     margin: 0;
     padding: 0;
 }
+#card{
+    background-color: lavenderblush;
+    width: 30vw;
+    height: 85vh;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10%;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card-body-img{
+    height: 50vh;
+    width: 50vh;
+}
 
 .card-body-title span{
     color: var(--primary-color);
@@ -17,22 +34,24 @@
 
 .card-footer{
     display: flex;
-    justify-content: space-around;
+    justify-content:center;
+    
 }
 
 .card-footer-social{
     text-align: center;
     margin-top: 2rem;
     margin-bottom: 2rem;
+    padding-right: 20px;
 }
 
 .card-footer-social p {
     letter-spacing: 1px;
 }
 
-.card:hover{
+/*.card:hover{
     transform: scale(0.9, 0.9);
     box-shadow: 5px 5px 30px 15px rgba(0,0,0,0.25),
     -5px -5px 30px 15px rgba(0,0,0,0.22)
     
-}
+}*/

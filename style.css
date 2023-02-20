@@ -2,3 +2,37 @@
     margin: 0;
     padding: 0;
 }
+
+.card-body-title span{
+    color: var(--primary-color);
+    font-weight: 400;
+}
+
+.card-body-text{
+    color: var(--primary-color);
+    font-size: 1.6rem;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-footer-social{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card-footer-social p {
+    letter-spacing: 1px;
+}
+
+.card:hover{
+    transform: scale(0.9, 0.9);
+    box-shadow: 5px 5px 30px 15px rgba(0,0,0,0.25),
+    -5px -5px 30px 15px rgba(0,0,0,0.22)
+    
+}
